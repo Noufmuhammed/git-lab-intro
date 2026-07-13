@@ -1,7 +1,10 @@
 Github Lab:
 
 1. What is the first command you awlays need to initialize a git repository?
-A:
+A:git remote add origin https://github.com/Noufmuhammed/git-lab-intro.git
+git branch -M main
+git push -u origin main
 
 2. You see your friend pushed code to their repository with the following commit message "done!". Is this a good commit message? why or why not?
-A:
+A:its not a good commit message because its better to explain the process
+Nouf hanif 
